@@ -48,12 +48,6 @@ This project implements a **LeNet-5 inspired CNN** to classify handwritten digit
 - **Evaluation:** Confusion matrix, classification report, visual predictions
 - **Performance:** Minimal overfitting, excellent generalization
 
-## Requirements
-
-- Python 3.8+
-- TensorFlow 2.5+
-- NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-
 ## Troubleshooting
 
 **Memory Issues:** Reduce batch size to 64 or 32
